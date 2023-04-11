@@ -1,202 +1,83 @@
 {
   "produtos": [
     {
-      "id": 1,
-      "url": "../img/star-wars/trooper-helmet.svg",
-      "alt": "imagem caneca do trooper",
-      "name": "Caneca Trooper",
-      "price": "60.00",
-      "section": "Star Wars",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum quibusdam adipisci sit saepe ratione consectetur. Maxime nostrum magnam, optio quibusdam ducimus perspiciatis quos ratione sunt tenetur non quo! Nesciunt sapiente natus tempore nisi optio dolorem delectus impedit officia consectetur repellat incidunt molestiae vel officiis, fugiat id aut inventore hic reprehenderit iure obcaecati maiores repellendus reiciendis, expedita magni! Placeat facilis dignissimos magnam praesentium enim officiis molestiae rerum atque velit eveniet necessitatibus et accusamus in, laudantium alias debitis illum a cumque officia unde excepturi, exercitationem architecto, nesciunt cupiditate? Vitae praesentium pariatur similique laudantium dicta iure totam, aspernatur vero voluptates veniam quia?",
-      "deleteImg": "../img/adding-product/delete.svg",
-      "editImg": "../img/adding-product/edit.svg"
+      "imagemUrl": "https://img.travessa.com.br/livro/BA/af/afb6b9b6-767b-4dff-8efd-50ec0dae64a0.jpg",
+      "categoria": "Ficção Científica",
+      "nome": "Jogador número 1",
+      "preco": "R$ 24,89",
+      "id": 1
     },
     {
-      "id": 2,
-      "url": "../img/star-wars/vader-kylo.svg",
-      "alt": "imagem bonecos vader e kylo",
-      "name": "Bonecos Dark Side",
-      "price": "260.00",
-      "section": "Star Wars",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum quibusdam adipisci sit saepe ratione consectetur. Maxime nostrum magnam, optio quibusdam ducimus perspiciatis quos ratione sunt tenetur non quo! Nesciunt sapiente natus tempore nisi optio dolorem delectus impedit officia consectetur repellat incidunt molestiae vel officiis, fugiat id aut inventore hic reprehenderit iure obcaecati maiores repellendus reiciendis, expedita magni! Placeat facilis dignissimos magnam praesentium enim officiis molestiae rerum atque velit eveniet necessitatibus et accusamus in, laudantium alias debitis illum a cumque officia unde excepturi, exercitationem architecto, nesciunt cupiditate? Vitae praesentium pariatur similique laudantium dicta iure totam, aspernatur vero voluptates veniam quia?",
-      "deleteImg": "../img/adding-product/delete.svg",
-      "editImg": "../img/adding-product/edit.svg"
+      "imagemUrl": "https://m.media-amazon.com/images/I/81zN7udGRUL.jpg",
+      "categoria": "Ficção Científica",
+      "nome": "Duna",
+      "preco": "R$ 45,50",
+      "id": 2
     },
     {
-      "id": 3,
-      "url": "../img/star-wars/yoda.svg",
-      "alt": "imagem quadro Yoda",
-      "name": "Quadro Yoda",
-      "price": "120.00",
-      "section": "Star Wars",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum quibusdam adipisci sit saepe ratione consectetur. Maxime nostrum magnam, optio quibusdam ducimus perspiciatis quos ratione sunt tenetur non quo! Nesciunt sapiente natus tempore nisi optio dolorem delectus impedit officia consectetur repellat incidunt molestiae vel officiis, fugiat id aut inventore hic reprehenderit iure obcaecati maiores repellendus reiciendis, expedita magni! Placeat facilis dignissimos magnam praesentium enim officiis molestiae rerum atque velit eveniet necessitatibus et accusamus in, laudantium alias debitis illum a cumque officia unde excepturi, exercitationem architecto, nesciunt cupiditate? Vitae praesentium pariatur similique laudantium dicta iure totam, aspernatur vero voluptates veniam quia?",
-      "deleteImg": "../img/adding-product/delete.svg",
-      "editImg": "../img/adding-product/edit.svg"
+      "imagemUrl": "https://www.martinclaret.com.br/wp-content/uploads/2017/04/81uaQ7IZAaL.jpg",
+      "categoria": "Romance Histórico",
+      "nome": "Orgulho e preconceito",
+      "preco": "R$ 18,90",
+      "id": 3
     },
     {
-      "id": 4,
-      "url": "../img/star-wars/trooper.svg",
-      "alt": "imagem quadro trooper",
-      "name": "Quadro Trooper",
-      "price": "120.00",
-      "section": "Star Wars",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum quibusdam adipisci sit saepe ratione consectetur. Maxime nostrum magnam, optio quibusdam ducimus perspiciatis quos ratione sunt tenetur non quo! Nesciunt sapiente natus tempore nisi optio dolorem delectus impedit officia consectetur repellat incidunt molestiae vel officiis, fugiat id aut inventore hic reprehenderit iure obcaecati maiores repellendus reiciendis, expedita magni! Placeat facilis dignissimos magnam praesentium enim officiis molestiae rerum atque velit eveniet necessitatibus et accusamus in, laudantium alias debitis illum a cumque officia unde excepturi, exercitationem architecto, nesciunt cupiditate? Vitae praesentium pariatur similique laudantium dicta iure totam, aspernatur vero voluptates veniam quia?",
-      "deleteImg": "../img/adding-product/delete.svg",
-      "editImg": "../img/adding-product/edit.svg"
+      "imagemUrl": "https://m.media-amazon.com/images/I/81JtKHh6ojL.jpg",
+      "categoria": "Romance Histórico",
+      "nome": "E o vento levou",
+      "preco": "R$ 37,99",
+      "id": 4
     },
     {
-      "id": 5,
-      "url": "../img/star-wars/grogo.svg",
-      "alt": "Boneco Grogo",
-      "name": "Boneco Grogo",
-      "price": "100.00",
-      "section": "Star Wars",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum quibusdam adipisci sit saepe ratione consectetur. Maxime nostrum magnam, optio quibusdam ducimus perspiciatis quos ratione sunt tenetur non quo! Nesciunt sapiente natus tempore nisi optio dolorem delectus impedit officia consectetur repellat incidunt molestiae vel officiis, fugiat id aut inventore hic reprehenderit iure obcaecati maiores repellendus reiciendis, expedita magni! Placeat facilis dignissimos magnam praesentium enim officiis molestiae rerum atque velit eveniet necessitatibus et accusamus in, laudantium alias debitis illum a cumque officia unde excepturi, exercitationem architecto, nesciunt cupiditate? Vitae praesentium pariatur similique laudantium dicta iure totam, aspernatur vero voluptates veniam quia?",
-      "deleteImg": "../img/adding-product/delete.svg",
-      "editImg": "../img/adding-product/edit.svg"
+      "imagemUrl": "https://m.media-amazon.com/images/I/81Vhnel+xxL.jpg",
+      "categoria": "Romance Contemporâneo",
+      "nome": "Todas as suas imperfeições",
+      "preco": "R$ 29,90",
+      "id": 5
     },
     {
-      "id": 6,
-      "url": "../img/star-wars/kylo-ren.svg",
-      "alt": "Quadro Kylo Ren",
-      "name": "Quadro Kylo Ren",
-      "price": "120.00",
-      "section": "Star Wars",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum quibusdam adipisci sit saepe ratione consectetur. Maxime nostrum magnam, optio quibusdam ducimus perspiciatis quos ratione sunt tenetur non quo! Nesciunt sapiente natus tempore nisi optio dolorem delectus impedit officia consectetur repellat incidunt molestiae vel officiis, fugiat id aut inventore hic reprehenderit iure obcaecati maiores repellendus reiciendis, expedita magni! Placeat facilis dignissimos magnam praesentium enim officiis molestiae rerum atque velit eveniet necessitatibus et accusamus in, laudantium alias debitis illum a cumque officia unde excepturi, exercitationem architecto, nesciunt cupiditate? Vitae praesentium pariatur similique laudantium dicta iure totam, aspernatur vero voluptates veniam quia?",
-      "deleteImg": "../img/adding-product/delete.svg",
-      "editImg": "../img/adding-product/edit.svg"
+      "imagemUrl": "https://m.media-amazon.com/images/I/61wlrmv1b4L.jpg",
+      "categoria": "Romance Contemporâneo",
+      "nome": "Teto para dois",
+      "preco": "R$ 28,70",
+      "id": 6
     },
     {
-      "id": 7,
-      "url": "../img/consoles/control.svg",
-      "alt": "imagem controle xBox",
-      "name": "Controle X-Box",
-      "price": "120.00",
-      "section": "Consoles",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum quibusdam adipisci sit saepe ratione consectetur. Maxime nostrum magnam, optio quibusdam ducimus perspiciatis quos ratione sunt tenetur non quo! Nesciunt sapiente natus tempore nisi optio dolorem delectus impedit officia consectetur repellat incidunt molestiae vel officiis, fugiat id aut inventore hic reprehenderit iure obcaecati maiores repellendus reiciendis, expedita magni! Placeat facilis dignissimos magnam praesentium enim officiis molestiae rerum atque velit eveniet necessitatibus et accusamus in, laudantium alias debitis illum a cumque officia unde excepturi, exercitationem architecto, nesciunt cupiditate? Vitae praesentium pariatur similique laudantium dicta iure totam, aspernatur vero voluptates veniam quia?",
-      "deleteImg": "../img/adding-product/delete.svg",
-      "editImg": "../img/adding-product/edit.svg"
+      "imagemUrl": "https://cf.shopee.com.br/file/a3a3b0c312ea2497220fbc12f53b945b",
+      "categoria": "Fantasia",
+      "nome": "A rainha vermelha",
+      "preco": "R$ 31,20",
+      "id": 7
+    },
+    
+   {
+      "imagemUrl": "https://m.media-amazon.com/images/I/81RgnNtVIlL.jpg",
+      "categoria": "Fantasia",
+      "nome": "Everless",
+      "preco": "R$ 35,45",
+      "id": 8
     },
     {
-      "id": 8,
-      "url": "../img/consoles/ps5.svg",
-      "alt": "imagem ps5",
-      "name": "PS5",
-      "price": "3.500,00",
-      "section": "Consoles",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum quibusdam adipisci sit saepe ratione consectetur. Maxime nostrum magnam, optio quibusdam ducimus perspiciatis quos ratione sunt tenetur non quo! Nesciunt sapiente natus tempore nisi optio dolorem delectus impedit officia consectetur repellat incidunt molestiae vel officiis, fugiat id aut inventore hic reprehenderit iure obcaecati maiores repellendus reiciendis, expedita magni! Placeat facilis dignissimos magnam praesentium enim officiis molestiae rerum atque velit eveniet necessitatibus et accusamus in, laudantium alias debitis illum a cumque officia unde excepturi, exercitationem architecto, nesciunt cupiditate? Vitae praesentium pariatur similique laudantium dicta iure totam, aspernatur vero voluptates veniam quia?",
-      "deleteImg": "../img/adding-product/delete.svg",
-      "editImg": "../img/adding-product/edit.svg"
+      "imagemUrl": "https://m.media-amazon.com/images/I/41z0zRILKYL._SX342_SY445_QL70_ML2_.jpg",
+      "categoria": "Suspense",
+      "nome": "Quarto de hóspedes",
+      "preco": "R$ 19,25",
+      "id": 9
     },
     {
-      "id": 9,
-      "url": "../img/consoles/nintendo.svg",
-      "alt": "imagem Nintendo",
-      "name": "Console Nintendo",
-      "price": "150.00",
-      "section": "Consoles",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum quibusdam adipisci sit saepe ratione consectetur. Maxime nostrum magnam, optio quibusdam ducimus perspiciatis quos ratione sunt tenetur non quo! Nesciunt sapiente natus tempore nisi optio dolorem delectus impedit officia consectetur repellat incidunt molestiae vel officiis, fugiat id aut inventore hic reprehenderit iure obcaecati maiores repellendus reiciendis, expedita magni! Placeat facilis dignissimos magnam praesentium enim officiis molestiae rerum atque velit eveniet necessitatibus et accusamus in, laudantium alias debitis illum a cumque officia unde excepturi, exercitationem architecto, nesciunt cupiditate? Vitae praesentium pariatur similique laudantium dicta iure totam, aspernatur vero voluptates veniam quia?",
-      "deleteImg": "../img/adding-product/delete.svg",
-      "editImg": "../img/adding-product/edit.svg"
+      "imagemUrl": "https://m.media-amazon.com/images/I/51jMfnBsk+L.jpg",
+      "categoria": "Suspense",
+      "nome": "Lista de convidados",
+      "preco": "R$ 24,99",
+      "id": 10
     },
     {
-      "id": 10,
-      "url": "../img/consoles/2-switch-control.svg",
-      "alt": "imagem controle switch",
-      "name": "Controle Switch",
-      "price": "100.00",
-      "section": "Consoles",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum quibusdam adipisci sit saepe ratione consectetur. Maxime nostrum magnam, optio quibusdam ducimus perspiciatis quos ratione sunt tenetur non quo! Nesciunt sapiente natus tempore nisi optio dolorem delectus impedit officia consectetur repellat incidunt molestiae vel officiis, fugiat id aut inventore hic reprehenderit iure obcaecati maiores repellendus reiciendis, expedita magni! Placeat facilis dignissimos magnam praesentium enim officiis molestiae rerum atque velit eveniet necessitatibus et accusamus in, laudantium alias debitis illum a cumque officia unde excepturi, exercitationem architecto, nesciunt cupiditate? Vitae praesentium pariatur similique laudantium dicta iure totam, aspernatur vero voluptates veniam quia?",
-      "deleteImg": "../img/adding-product/delete.svg",
-      "editImg": "../img/adding-product/edit.svg"
-    },
-    {
-      "id": 11,
-      "url": "../img/consoles/xbox.svg",
-      "alt": "vídeo game xbox",
-      "name": "X-Box",
-      "price": "2.700.00",
-      "section": "Consoles",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum quibusdam adipisci sit saepe ratione consectetur. Maxime nostrum magnam, optio quibusdam ducimus perspiciatis quos ratione sunt tenetur non quo! Nesciunt sapiente natus tempore nisi optio dolorem delectus impedit officia consectetur repellat incidunt molestiae vel officiis, fugiat id aut inventore hic reprehenderit iure obcaecati maiores repellendus reiciendis, expedita magni! Placeat facilis dignissimos magnam praesentium enim officiis molestiae rerum atque velit eveniet necessitatibus et accusamus in, laudantium alias debitis illum a cumque officia unde excepturi, exercitationem architecto, nesciunt cupiditate? Vitae praesentium pariatur similique laudantium dicta iure totam, aspernatur vero voluptates veniam quia?",
-      "deleteImg": "../img/adding-product/delete.svg",
-      "editImg": "../img/adding-product/edit.svg"
-    },
-    {
-      "id": 12,
-      "url": "../img/consoles/game-boy.svg",
-      "alt": "vídeo game game boy",
-      "name": "Game Boy",
-      "price": "100.00",
-      "section": "Consoles",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum quibusdam adipisci sit saepe ratione consectetur. Maxime nostrum magnam, optio quibusdam ducimus perspiciatis quos ratione sunt tenetur non quo! Nesciunt sapiente natus tempore nisi optio dolorem delectus impedit officia consectetur repellat incidunt molestiae vel officiis, fugiat id aut inventore hic reprehenderit iure obcaecati maiores repellendus reiciendis, expedita magni! Placeat facilis dignissimos magnam praesentium enim officiis molestiae rerum atque velit eveniet necessitatibus et accusamus in, laudantium alias debitis illum a cumque officia unde excepturi, exercitationem architecto, nesciunt cupiditate? Vitae praesentium pariatur similique laudantium dicta iure totam, aspernatur vero voluptates veniam quia?",
-      "deleteImg": "../img/adding-product/delete.svg",
-      "editImg": "../img/adding-product/edit.svg"
-    },
-    {
-      "id": 13,
-      "url": "../img/diversos/atari.svg",
-      "alt": "camiseta atari",
-      "name": "Camiseta atari",
-      "price": "50.00",
-      "section": "Diversos",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum quibusdam adipisci sit saepe ratione consectetur. Maxime nostrum magnam, optio quibusdam ducimus perspiciatis quos ratione sunt tenetur non quo! Nesciunt sapiente natus tempore nisi optio dolorem delectus impedit officia consectetur repellat incidunt molestiae vel officiis, fugiat id aut inventore hic reprehenderit iure obcaecati maiores repellendus reiciendis, expedita magni! Placeat facilis dignissimos magnam praesentium enim officiis molestiae rerum atque velit eveniet necessitatibus et accusamus in, laudantium alias debitis illum a cumque officia unde excepturi, exercitationem architecto, nesciunt cupiditate? Vitae praesentium pariatur similique laudantium dicta iure totam, aspernatur vero voluptates veniam quia?",
-      "deleteImg": "../img/adding-product/delete.svg",
-      "editImg": "../img/adding-product/edit.svg"
-    },
-    {
-      "id": 14,
-      "url": "../img/diversos/camiseta-snes.svg",
-      "alt": "camiseta SNES",
-      "name": "Camiseta SNES",
-      "price": "50.00",
-      "section": "Diversos",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum quibusdam adipisci sit saepe ratione consectetur. Maxime nostrum magnam, optio quibusdam ducimus perspiciatis quos ratione sunt tenetur non quo! Nesciunt sapiente natus tempore nisi optio dolorem delectus impedit officia consectetur repellat incidunt molestiae vel officiis, fugiat id aut inventore hic reprehenderit iure obcaecati maiores repellendus reiciendis, expedita magni! Placeat facilis dignissimos magnam praesentium enim officiis molestiae rerum atque velit eveniet necessitatibus et accusamus in, laudantium alias debitis illum a cumque officia unde excepturi, exercitationem architecto, nesciunt cupiditate? Vitae praesentium pariatur similique laudantium dicta iure totam, aspernatur vero voluptates veniam quia?",
-      "deleteImg": "../img/adding-product/delete.svg",
-      "editImg": "../img/adding-product/edit.svg"
-    },
-    {
-      "id": 15,
-      "url": "../img/diversos/sonic.svg",
-      "alt": "Boneco Sonic",
-      "name": "Boneco Sonic",
-      "price": "120.00",
-      "section": "Diversos",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum quibusdam adipisci sit saepe ratione consectetur. Maxime nostrum magnam, optio quibusdam ducimus perspiciatis quos ratione sunt tenetur non quo! Nesciunt sapiente natus tempore nisi optio dolorem delectus impedit officia consectetur repellat incidunt molestiae vel officiis, fugiat id aut inventore hic reprehenderit iure obcaecati maiores repellendus reiciendis, expedita magni! Placeat facilis dignissimos magnam praesentium enim officiis molestiae rerum atque velit eveniet necessitatibus et accusamus in, laudantium alias debitis illum a cumque officia unde excepturi, exercitationem architecto, nesciunt cupiditate? Vitae praesentium pariatur similique laudantium dicta iure totam, aspernatur vero voluptates veniam quia?",
-      "deleteImg": "../img/adding-product/delete.svg",
-      "editImg": "../img/adding-product/edit.svg"
-    },
-    {
-      "id": 16,
-      "url": "../img/diversos/alarm.svg",
-      "alt": "Relógio alarme",
-      "name": "Relógio alarme",
-      "price": "70.00",
-      "section": "Diversos",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum quibusdam adipisci sit saepe ratione consectetur. Maxime nostrum magnam, optio quibusdam ducimus perspiciatis quos ratione sunt tenetur non quo! Nesciunt sapiente natus tempore nisi optio dolorem delectus impedit officia consectetur repellat incidunt molestiae vel officiis, fugiat id aut inventore hic reprehenderit iure obcaecati maiores repellendus reiciendis, expedita magni! Placeat facilis dignissimos magnam praesentium enim officiis molestiae rerum atque velit eveniet necessitatibus et accusamus in, laudantium alias debitis illum a cumque officia unde excepturi, exercitationem architecto, nesciunt cupiditate? Vitae praesentium pariatur similique laudantium dicta iure totam, aspernatur vero voluptates veniam quia?",
-      "deleteImg": "../img/adding-product/delete.svg",
-      "editImg": "../img/adding-product/edit.svg"
-    },
-    {
-      "id": 17,
-      "url": "../img/diversos/virtual-glass.svg",
-      "alt": "Óculos virtual",
-      "name": "Óculos virtual",
-      "price": "370.00",
-      "section": "Diversos",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum quibusdam adipisci sit saepe ratione consectetur. Maxime nostrum magnam, optio quibusdam ducimus perspiciatis quos ratione sunt tenetur non quo! Nesciunt sapiente natus tempore nisi optio dolorem delectus impedit officia consectetur repellat incidunt molestiae vel officiis, fugiat id aut inventore hic reprehenderit iure obcaecati maiores repellendus reiciendis, expedita magni! Placeat facilis dignissimos magnam praesentium enim officiis molestiae rerum atque velit eveniet necessitatibus et accusamus in, laudantium alias debitis illum a cumque officia unde excepturi, exercitationem architecto, nesciunt cupiditate? Vitae praesentium pariatur similique laudantium dicta iure totam, aspernatur vero voluptates veniam quia?",
-      "deleteImg": "../img/adding-product/delete.svg",
-      "editImg": "../img/adding-product/edit.svg"
-    },
-    {
-      "id": 18,
-      "url": "../img/diversos/picachu.svg",
-      "alt": "Pelúcia do picachu",
-      "name": "Pelúcia Picachu",
-      "price": "60.00",
-      "section": "Diversos",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum quibusdam adipisci sit saepe ratione consectetur. Maxime nostrum magnam, optio quibusdam ducimus perspiciatis quos ratione sunt tenetur non quo! Nesciunt sapiente natus tempore nisi optio dolorem delectus impedit officia consectetur repellat incidunt molestiae vel officiis, fugiat id aut inventore hic reprehenderit iure obcaecati maiores repellendus reiciendis, expedita magni! Placeat facilis dignissimos magnam praesentium enim officiis molestiae rerum atque velit eveniet necessitatibus et accusamus in, laudantium alias debitis illum a cumque officia unde excepturi, exercitationem architecto, nesciunt cupiditate? Vitae praesentium pariatur similique laudantium dicta iure totam, aspernatur vero voluptates veniam quia?",
-      "deleteImg": "../img/adding-product/delete.svg",
-      "editImg": "../img/adding-product/edit.svg"
+      "imagemUrl": "https://m.media-amazon.com/images/I/915nYQ6DboL.jpg",
+      "categoria": "Fantasia",
+      "nome": "Cidade da lua crescente",
+      "preco": "R$ 47,19",
+      "id": 11
     }
+
   ]
 }
